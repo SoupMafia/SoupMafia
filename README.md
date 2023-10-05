@@ -14,9 +14,13 @@
 - AWS Certified Cloud Practitioner (in progress) - Working hard to achieve this milestone!
 
 ## Contact Me
-You can reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+You can reach out to me via email at [santiago@dolguin.com.ar](mailto:santiago@dolguin.com.ar).
 
 ## Let's Connect!
 I'm always excited to connect with fellow developers, gamers, and cloud enthusiasts. Feel free to reach out, collaborate on projects, or just chat about our shared interests!
+
+You can find me on:
+- [![Instagram](https://img.shields.io/badge/Instagram-%40your_username-orange)](https://www.instagram.com/your_username)
+- [![Twitter](https://img.shields.io/badge/Twitter-%40your_username-blue)](https://twitter.com/your_username)
 
 Thanks for visiting my GitHub page! 🚀
