@@ -20,7 +20,7 @@ You can reach out to me via email at [santiago@dolguin.com.ar](mailto:santiago@d
 I'm always excited to connect with fellow developers, gamers, and cloud enthusiasts. Feel free to reach out, collaborate on projects, or just chat about our shared interests!
 
 You can find me on:
-- [![Instagram](https://img.shields.io/badge/Instagram-%40your_username-orange)](https://www.instagram.com/your_username)
-- [![Twitter](https://img.shields.io/badge/Twitter-%40your_username-blue)](https://twitter.com/your_username)
+- [![Instagram](https://img.shields.io/badge/Instagram-%40SoupMaf1a)](https://www.instagram.com/SoupMaf1a)
+- [![Twitter](https://img.shields.io/badge/Twitter-%40SoupMafia)](https://twitter.com/SoupMafia)
 
 Thanks for visiting my GitHub page! 🚀
